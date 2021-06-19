@@ -1,0 +1,16 @@
+s3 bucket name:
+shakeeb-crm
+
+s3 bucket user:
+shakeebcrm
+
+Access key ID:
+AKIA57IYNILPJ45CH7JK
+
+Secret access key:
+0doE1zcw6gOWaD60mKdPG9YOuv8X3ld4MoZiSFHJ
+
+
+Dependencies:
+pip install django-storages
+pip install boto3
